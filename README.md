@@ -1,6 +1,5 @@
 # 🤖 AI-Powered Stock Market Predictor
 
-![Stock Forecasting Banner](https://huggingface.co/spaces/umarfarooq8505/Stock-Market-Predictor/resolve/main/banner.png)
 
 A real-time **stock forecasting and analysis tool** powered by AI (Groq LLaMA3), technical indicators, and news sentiment.  
 Built using **Streamlit**, **Machine Learning**, **Yahoo Finance**, and **LLMs** — hosted on Hugging Face Spaces.
