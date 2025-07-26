@@ -62,14 +62,17 @@ Built using **Streamlit**, **Machine Learning**, **Yahoo Finance**, and **LLMs**
 
 ## 📁 Project Structure
 
-├── app.py # Streamlit main interface
-├── stock_predictor.py # AI + technical logic
-├── groq_assistant.py # Chatbot with Groq or fallback
-├── requirements.txt # All dependencies
-├── README.md # This file
+├── app.py #Streamlit main interface
+
+├── stock_predictor.py #AI + technical logic
+
+├── groq_assistant.py #Chatbot with Groq or fallback
+
+├── requirements.txt #All dependencies
+
+├── README.md #This file
 
 
----
 
 ## 📦 Setup Instructions
 
