@@ -68,9 +68,6 @@ Built using **Streamlit**, **Machine Learning**, **Yahoo Finance**, and **LLMs**
 ├── requirements.txt # All dependencies
 ├── README.md # This file
 
-yaml
-Copy
-Edit
 
 ---
 
